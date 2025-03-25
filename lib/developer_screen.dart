@@ -22,7 +22,7 @@ class DeveloperScreen extends StatelessWidget {
               ),
               const SizedBox(height: 20),
               const Text(
-                'นักพัฒนา: นายถิรวัฒน์ ณ ลำปาง เเละ นายรณกร วัดสว่าง',
+                'นักพัฒนา: นายรณกร วัดสว่าง เเละ นายถิรวัฒน์ ณ ลำปาง',
                 style: TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
@@ -37,7 +37,7 @@ class DeveloperScreen extends StatelessWidget {
                   Icon(Icons.email, color: Colors.white), 
                   SizedBox(width: 5), 
                   Text(
-                    'ติดต่อ: thirawat.na@ku.th เเละ ronnakron.w@ku.th',
+                    'ติดต่อ:ronnakron.w@ku.th เเละ thirawat.na@ku.th',
                     style: TextStyle(
                       fontSize: 24,
                       fontWeight: FontWeight.bold,
@@ -49,7 +49,7 @@ class DeveloperScreen extends StatelessWidget {
               ),
               const SizedBox(height: 20),
               const Text(
-                'รหัสนิสิต: 6521600460 เเละ 6521602080',
+                'รหัสนิสิต: 6521602080 เเละ 6521600460 เ',
                 style: TextStyle(
                   fontSize: 18,
                   fontWeight: FontWeight.bold,
